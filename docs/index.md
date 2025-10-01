@@ -1,13 +1,11 @@
  ![Image Placememt](img/Arista_Logo_copy.png)
 
 
-# Arista UpstateNY Region Newsletter
+# Arista LifeSciences Region Newsletter
 
-Welcome to the August 2025 newsletter for Arista customers in the U.S. Upstate NY Region!
+Welcome to the October 2025 newsletter for Arista customers in Life Sciences!
 
- 
-We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to [UpstateNY@arista.com](mailto:UpstateNY@arista.com)
- 
+
 
 ---
 
@@ -16,7 +14,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 <div class="grid cards" markdown>
 
--   __Local Upstate NY Events__
+-   __Local   Events__
 
     <a href="" target="_blank">
       <img src="img/UpstateNYEvents.png"/>
