@@ -1,9 +1,9 @@
 site_name: Life Sciences
 
-site_url: https://AristaLifeSciences.github.io/Life-Sciences/
-repo_name: AristaLifeSciences/Life-Sciences
+site_url: https://AristaLifeSciences.github.io/Newsletter/
+repo_name: AristaLifeSciences/Newsletter
 docs_dir: docs/
-edit_uri: https://github.com/AristaLifeSciences/Life-Sciences/edit/master/docs/
+edit_uri: https://github.com/AristaLifeSciences/Newsletter/edit/master/docs/
 
 markdown_extensions:
   - abbr
