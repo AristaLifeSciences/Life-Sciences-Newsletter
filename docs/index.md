@@ -11,9 +11,9 @@ Welcome to the Arista Life Sciences Quarterly Newsletter, where we explore indus
       <img src="img/EventBanner.png"/>
     </a>
 
-    | Date         | Name                                     | Description                                                                                                                                                                                                                         | Location & Registration                                                                                       |
+    | Date         | Name                                     | Description                                                                                                                                                                                                                         | Registration                                                                                       |
     |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-    | __December 9, 2025__  | Networking for the AI: Arista AI 101 | AI is changing the way businesses operate, and networks must evolve to keep up. Join Arista for a high-level look at how intelligent infrastructure powers the next generation of AI-driven operations.                                             | <span class="location-text">Virtual<br></span>  [Register](https://events.arista.com/2025-12-09-virtual-arista-networking-for-the-ai-era-arista-ai-101){.register-link}      
+    | __December 9, 2025__  | Networking for the AI: Arista AI 101 | AI is changing the way businesses operate, and networks must evolve to keep up. Join Arista for a high-level look at how intelligent infrastructure powers AI-driven operations.                                             | <span class="location-text">Virtual<br></span>  [Register](https://events.arista.com/2025-12-09-virtual-arista-networking-for-the-ai-era-arista-ai-101){.register-link}      
 </div>
 
 ## __**Keeping Pace with a Seismic Shift in Life Sciences**__
@@ -24,7 +24,7 @@ Now, the life sciences sector is at a similar **inflection point**. The converge
 
 ### **A Modern Approach to Infrastructure**
 
-Our **Modern Operating Model** principles enable a **standards-based, fully automated,** and **vendor-agnostic** architecture. This approach can streamline operations and reduce costs for Life Sciences IT, Research IT, and Manufacturing. By simplifying and standardizing network operations, we eliminate **vendor lock-in** and create a consistent foundation for scale, visibility, and innovation, empowering scientists to focus on what matters most:* breakthrough discovery.*
+Our **Modern Operating Model** principles enable a **standards-based, fully automated,** and **vendor-agnostic** architecture. This approach can streamline operations and reduce costs for Life Sciences IT, Research IT, and Manufacturing. By simplifying and standardizing network operations, we eliminate **vendor lock-in** and create a consistent foundation for scale, visibility, and innovation, empowering scientists to focus on what matters most: *breakthrough discovery.*
 
 ### **Defining the Future of High-Performance AI Networking**
 
