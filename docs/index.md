@@ -71,4 +71,4 @@ Innovation in life sciences isn’t slowing down, and neither can your network. 
 Look out for our upcoming life sciences events, technical deep dives, and webinars. At these events, we’ll share insights from leading research organizations and discuss best practices for building HPC and AI-ready networks. Because in a world where discovery moves at the speed of data, the right network isn’t just infrastructure, it’s your competitive edge
 
 ---
-*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email us at [nelifesciences@arista.com](mailto:nelifesciences@arista.com)*
+*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email us at [noork@arista.com](mailto:noork@arista.com)*
