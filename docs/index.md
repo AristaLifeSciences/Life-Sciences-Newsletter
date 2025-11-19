@@ -8,7 +8,7 @@ Welcome to the Arista Life Sciences Quarterly Newsletter, where we explore indus
 <div class="grid cards" markdown>
 <!-- -   __**Local   Events**__ -->
 -   <a href="" target="_blank">
-      <img src="img/event banner.png"/>
+      <img src="img/EventBanner.png"/>
     </a>
 
     | Date         | Name                                     | Description                                                                                                                                                                                                                         | Location & Registration                                                                                       |
