@@ -130,3 +130,10 @@ a[href*="arista.com"]:hover {
   border-radius: 6px !important;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1) !important;
 }
+
+
+/* Custom styling for centered and colored headers */
+h1 {
+  text-align: center; /* Centers the header text */
+  color: #16325B;
+}
