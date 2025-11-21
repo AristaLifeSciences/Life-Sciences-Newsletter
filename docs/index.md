@@ -15,7 +15,15 @@ Welcome to the Arista Life Sciences Quarterly Newsletter, where we explore indus
     |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
     | __December 9, 2025__  | Networking for the AI Era: Arista AI 101 | AI is changing the way businesses operate, and networks must evolve to keep up. Join Arista for a high-level look at how intelligent infrastructure powers AI-driven operations.                                             | <span class="location-text">Virtual<br></span>  [Register](https://events.arista.com/2025-12-09-virtual-arista-networking-for-the-ai-era-arista-ai-101){.register-link}      
 </div>
+#### __**Take a look at these Arista testimonials from an A-List of A.I. industry luminaries!**__ 
+  <div class="article-section" markdown>
+</div>
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/FzwydqLKHxI?rel=0&wmode=transparent" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
 ## __**Keeping Pace with a Seismic Shift in Life Sciences**__
 
 Since our founding, Arista Networks has driven networking innovation through close collaboration with our customers, enabling new capabilities that have achieved required business outcomes. From **reducing latency** for high-frequency traders, to **providing essential telemetry** for hyperscalers’ automation, to building PTP, multicast, and bandwidth management to deliver the **level of reliability** required by media broadcasters, Arista has helped *redefine what's possible in networking*.
