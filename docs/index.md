@@ -72,25 +72,24 @@ Adopting a Modern Operating Model brings cloud-like agility and scale to on-prem
 Look out for our upcoming life sciences events and webinars. At these events, we’ll share insights from leading research organizations and discuss best practices for building HPC and AI-ready networks.
 
 ---
-*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email: [noork@arista.com](mailto:nelifesciences@arista.com)*
+*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email: [noork@arista.com](mailto:noork@arista.com)*
 
 ---
 <style>
   .resources-container {
     text-align: left !important;
     padding: 15px 20px;
-    border-left: 4px solid #0070d2; /* Arista Blue accent */
+    border-left: 4px solid #0070d2;
     background: #fdfdfd;
     margin-top: 20px;
-    /* Forces the container to respect the left alignment regardless of theme */
     display: block; 
     clear: both;
   }
 
   .resources-header {
-    font-size: 1.25em; /* Approximate H4 size */
+    font-size: 1.25em; 
     font-weight: bold;
-    color: #16325B; /* Arista primary brand color */
+    color: #16325B; 
     display: block;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -99,24 +98,24 @@ Look out for our upcoming life sciences events and webinars. At these events, we
 
   .resource-link {
     display: block !important;
-    color: #0070d2 !important; /* Arista Blue link color */
+    color: #0070d2 !important;
     text-decoration: none !important;
     padding: 8px 0 !important;
-    font-weight: normal;
+    font-weight: normal !important; /* Forces unbolded text */
     transition: 0.2s;
-    line-height: 1.4; /* Ensures consistent spacing for multi-line titles */
+    line-height: 1.4;
   }
 
   .resource-link:hover {
     color: #16325B !important;
-    padding-left: 8px !important; /* Subtle slide effect */
+    padding-left: 8px !important;
   }
 
-  /* Standardizes the bullet point for every link */
+  /* Standardizes the bullet point and ensures it is also unbolded */
   .resource-link::before {
     content: "→";
     margin-right: 12px;
-    font-weight: normal;
+    font-weight: normal !important; /* Forces unbolded arrow */
     display: inline-block;
   }
 </style>

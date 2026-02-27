@@ -81,7 +81,6 @@ Look out for our upcoming life sciences events, technical deep dives, and webina
 ---
 *Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email us at [noork@arista.com](mailto:noork@arista.com)*
 
----
 <style>
   .resources-container {
     text-align: left !important;
@@ -108,7 +107,7 @@ Look out for our upcoming life sciences events, technical deep dives, and webina
     color: #0070d2 !important;
     text-decoration: none !important;
     padding: 8px 0 !important;
-    font-weight: normal; 
+    font-weight: normal !important; /* Forces unbolded text */
     transition: 0.2s;
     line-height: 1.4;
   }
@@ -118,10 +117,11 @@ Look out for our upcoming life sciences events, technical deep dives, and webina
     padding-left: 8px !important;
   }
 
+  /* Standardizes the bullet point and ensures it is also unbolded */
   .resource-link::before {
     content: "→";
     margin-right: 12px;
-    font-weight: normal;
+    font-weight: normal !important; /* Forces unbolded arrow */
     display: inline-block;
   }
 </style>
