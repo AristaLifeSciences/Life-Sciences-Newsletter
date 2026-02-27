@@ -86,18 +86,17 @@ Look out for our upcoming life sciences events, technical deep dives, and webina
   .resources-container {
     text-align: left !important;
     padding: 15px 20px;
-    border-left: 4px solid #0070d2; /* Arista Blue accent */
+    border-left: 4px solid #0070d2;
     background: #fdfdfd;
     margin-top: 20px;
-    /* Forces the container to respect the left alignment regardless of theme */
     display: block; 
     clear: both;
   }
 
   .resources-header {
-    font-size: 1.25em; /* Approximate H4 size */
+    font-size: 1.25em; 
     font-weight: bold;
-    color: #16325B; /* Arista primary brand color */
+    color: #16325B; 
     display: block;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -106,34 +105,33 @@ Look out for our upcoming life sciences events, technical deep dives, and webina
 
   .resource-link {
     display: block !important;
-    color: #0070d2 !important; /* Arista Blue link color */
+    color: #0070d2 !important;
     text-decoration: none !important;
     padding: 8px 0 !important;
-    font-weight: 500;
+    font-weight: normal; 
     transition: 0.2s;
-    line-height: 1.4; /* Ensures consistent spacing for multi-line titles */
+    line-height: 1.4;
   }
 
   .resource-link:hover {
     color: #16325B !important;
-    padding-left: 8px !important; /* Subtle slide effect */
+    padding-left: 8px !important;
   }
 
-  /* Standardizes the bullet point for every link */
   .resource-link::before {
     content: "→";
     margin-right: 12px;
-    font-weight: bold;
+    font-weight: normal;
     display: inline-block;
   }
 </style>
 
-<div class="grid cards" markdown>
-- <div class="resources-container" markdown>
-  <span class="resources-header">Resources</span>
-  [AI Networking Whitepaper](https://www.arista.com/assets/data/pdf/Whitepapers/AI-Network-WP.pdf){ .resource-link }
-  [New Era of AI Centers](https://blogs.arista.com/blog/ai-center){ .resource-link }
-  [Gen AI and Agentic AI Revolution](https://blogs.arista.com/blog/generative-and-agentic-ai-networking-revolution){ .resource-link }
-  [Scale Up Ethernet](https://blogs.arista.com/blog/the-sun-rises-on-scale-up-ethernet){ .resource-link }
+<div class="resources-container" markdown>
+<span class="resources-header">Resources</span>
+
+  [AI Networking Whitepaper](https://www.arista.com/assets/data/pdf/Whitepapers/AI-Network-WP.pdf){ .resource-link target="_blank"}
+  [New Era of AI Centers](https://blogs.arista.com/blog/ai-center){ .resource-link target="_blank"}
+  [Gen AI and Agentic AI Revolution](https://blogs.arista.com/blog/generative-and-agentic-ai-networking-revolution){ .resource-link target="_blank"target="_blank"}
+  [Scale Up Ethernet](https://blogs.arista.com/blog/the-sun-rises-on-scale-up-ethernet){ .resource-link target="_blank"}
   </div>
 </div>

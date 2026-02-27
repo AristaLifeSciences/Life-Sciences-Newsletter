@@ -102,7 +102,7 @@ Look out for our upcoming life sciences events and webinars. At these events, we
     color: #0070d2 !important; /* Arista Blue link color */
     text-decoration: none !important;
     padding: 8px 0 !important;
-    font-weight: 500;
+    font-weight: normal;
     transition: 0.2s;
     line-height: 1.4; /* Ensures consistent spacing for multi-line titles */
   }
@@ -116,14 +116,16 @@ Look out for our upcoming life sciences events and webinars. At these events, we
   .resource-link::before {
     content: "→";
     margin-right: 12px;
-    font-weight: bold;
+    font-weight: normal;
     display: inline-block;
   }
 </style>
 
 <div class="resources-container" markdown>
 <span class="resources-header">Resources</span>
-[Arista Labs](https://labs.arista.com/){ .resource-link }
-[CloudVision Chats Ep 1 - Realtime Telemetry vs Polling](https://www.youtube.com/watch?v=t22vWu9wvtA){ .resource-link }
-[CloudVision Chats Ep 4 - Evolution of software upgrades: Smart System Upgrade](https://www.youtube.com/watch?v=ZuBe5B4EpsI){ .resource-link }
+
+[CloudVision Chats Ep 1 - Realtime Telemetry vs Polling](https://www.youtube.com/watch?v=t22vWu9wvtA){ .resource-link target="_blank"}
+[CloudVision Chats Ep 4 - Evolution of software upgrades: Smart System Upgrade](https://www.youtube.com/watch?v=ZuBe5B4EpsI){ .resource-link target="_blank"}
+[Arista Labs](https://labs.arista.com/){ .resource-link target="_blank"}
+
 </div>
