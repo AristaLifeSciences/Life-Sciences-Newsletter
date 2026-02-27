@@ -29,6 +29,8 @@ markdown_extensions:
 
 theme:
   name: material
+  features:
+    - navigation.sections
   icon:
     admonition:
       quote: octicons/quote-16
@@ -40,17 +42,13 @@ theme:
    
 nav:
   - www.arista.com: http://www.arista.com
-  - November 2025: index.md
-  - Resources:
-    - AI Networking Whitepaper: https://www.arista.com/assets/data/pdf/Whitepapers/AI-Network-WP.pdf
-    - New Era of AI Centers: https://blogs.arista.com/blog/ai-center
-    - Gen AI and Agentic AI Revolution: https://blogs.arista.com/blog/generative-and-agentic-ai-networking-revolution
-    - Scale Up Ethernet: https://blogs.arista.com/blog/the-sun-rises-on-scale-up-ethernet
+  - March 2026: index.md
+  - November 2025: November2025.md
 
 
 extra_css:
   - stylesheets/extra.css
 
 copyright: >
-  Copyright © 2025 Arista Networks 
+  Copyright © 2026 Arista Networks 
 
