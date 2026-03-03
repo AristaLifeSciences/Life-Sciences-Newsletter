@@ -13,7 +13,8 @@ Welcome back! Last time we covered AI in Life Sciences IT; this edition spotligh
 
     | Date         | Name                                     | Description                                                                                                                                                                                                                         | Registration                                                                                       |
     |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-    | __March 26__  | MassBio: State of Possible Conference | This year’s *State of Possible* Conference spotlights the people and passion behind innovation. Arista Networks is a Copper Sponsor — come say hi at our booth!                                            | <span class="location-text">Omni Hotel Seaport<br></span>  [Register](https://www.massbio.org/events/state-of-possible-conference/?utm_source=google&utm_medium=search&utm_campaign=ads&gad_source=1&gad_campaignid=23504506941&gbraid=0AAAAADFOxY3WsJo86KHccEokwEGgljNiL&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1IJLx_auXrmt45AAJRNkmpIMm4L6WGJEm48vlEAnI-eMdce-oZEMuBoCbgsQAvD_BwE){.register-link}      
+    | __March 26__  | MassBio: State of Possible Conference | This year’s *State of Possible* Conference spotlights the people and passion behind innovation. Arista Networks is a Copper Sponsor — come say hi at our booth!                                            | <span class="location-text">Omni Hotel Seaport<br></span>  [Register](https://www.massbio.org/events/state-of-possible-conference/?utm_source=google&utm_medium=search&utm_campaign=ads&gad_source=1&gad_campaignid=23504506941&gbraid=0AAAAADFOxY3WsJo86KHccEokwEGgljNiL&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1IJLx_auXrmt45AAJRNkmpIMm4L6WGJEm48vlEAnI-eMdce-oZEMuBoCbgsQAvD_BwE){.register-link}
+    | March 25 | Intro to Arista Series | If you don’t know Arista Networks yet, this series is for you! | <span class="location-text">Webinar<br></span> [Register](https://events.arista.com/arista-introductory-101-webinar-series?utm_campaign=36464950-EMEA%202026%20Q1%20Arista%20101%20Webinar%20Series&utm_medium=email&_hsenc=p2ANqtz-_kzxda9iy7cmzZYOpKzhsrSsBRvn7C4NsrvvtOWWs5dkfpqKp_9187Mf2XCSHGc10dw4Hvn7PFBS5kGYv2mnog9CgPQg&_hsmi=2&utm_content=2&utm_source=hs_email#agenda){.register-link} |      
 </div>
 
 ## __**A Modern Approach to Infrastructure**__
@@ -31,11 +32,17 @@ At each stage, operational velocity accelerates: from multi-year cycles to quart
 
 ### **Software Discipline Embedded in Design**
 
-#### ***In today’s modern operating model, success isn’t defined by whether you can automate; it’s defined by whether that automation is disciplined, validated, and operationally safe.***
+***Automation alone isn’t the goal. Operationally safe, validated, and sustainable automation is.***
 
-Many network environments still rely on custom scripting, fragmented toolsets, and extensive internal upskilling to enable automation, often resulting in inconsistent architectures and operational risk.
+In many environments, automation requires specialized platforms, rare skill sets, and months of ramp-up time before delivering value. That adds cost, delays projects, and forces engineers to step away from day-to-day operations. It also introduces another abstraction layer between the engineer and the CLI, often slowing iterative change.
 
-Arista takes a fundamentally different approach by embedding software discipline directly into the network through [Arista Validated Designs](https://www.arista.com/en/solutions/design-guides) (AVD) and CloudVision. Topology logic, compliance checks, change validation, and streaming telemetry are built into the platform, not bolted on after the fact. This is automation as a *scalable, operational standard.*
+**Arista takes a different approach.**
+
+With Arista Networks, automation is accessible in days, not months. Many teams are already familiar with open frameworks like Ansible, so skills are portable and time to usable templates is fast, without pulling engineers away from their core responsibilities.
+
+That discipline extends beyond the OS to management. With Arista CloudVision and[ Arista Validated Designs](https://www.arista.com/en/solutions/design-guides), topology logic, compliance, validation, and streaming telemetry are built in, not bolted on.
+
+This is what software discipline looks like: A unified system. Portable skills. Rapid time to value. And automation that empowers engineers rather than abstracting them away from their network.
 
 ### **The Scientific Method Applied to Infrastructure**
 
@@ -123,8 +130,9 @@ Look out for our upcoming life sciences events and webinars. At these events, we
 <div class="resources-container" markdown>
 <span class="resources-header">Resources</span>
 
+[Arista Labs](https://labs.arista.com/){ .resource-link target="_blank"}
 [CloudVision Chats Ep 1 - Realtime Telemetry vs Polling](https://www.youtube.com/watch?v=t22vWu9wvtA){ .resource-link target="_blank"}
 [CloudVision Chats Ep 4 - Evolution of software upgrades: Smart System Upgrade](https://www.youtube.com/watch?v=ZuBe5B4EpsI){ .resource-link target="_blank"}
-[Arista Labs](https://labs.arista.com/){ .resource-link target="_blank"}
+[Press Release: CloudVision delivers Modern Network Operating Model across the Enterprise](https://www.arista.com/en/company/news/press-release/20387-pr-20240924){ .resource-link target="_blank"}
 
 </div>
