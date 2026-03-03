@@ -13,7 +13,7 @@ Welcome back! Last time we covered AI in Life Sciences IT; this edition spotligh
 
     | Date         | Name                                     | Description                                                                                                                                                                                                                         | Registration                                                                                       |
     |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-    | __March 26__  | MassBio: State of Possible Conference | This year’s *State of Possible* Conference spotlights the people and passion behind innovation. Arista Networks is a Copper Sponsor — come say hi at our booth!                                            | <span class="location-text">Omni Hotel Seaport<br></span>  [Register](https://www.massbio.org/events/state-of-possible-conference/?utm_source=google&utm_medium=search&utm_campaign=ads&gad_source=1&gad_campaignid=23504506941&gbraid=0AAAAADFOxY3WsJo86KHccEokwEGgljNiL&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1IJLx_auXrmt45AAJRNkmpIMm4L6WGJEm48vlEAnI-eMdce-oZEMuBoCbgsQAvD_BwE){.register-link}
+    | __March 26__  | MassBio: State of Possible Conference | Arista Networks is a Copper Sponsor — come say hi at our booth!                                            | <span class="location-text">Omni Hotel Seaport<br></span>  [Register](https://www.massbio.org/events/state-of-possible-conference/?utm_source=google&utm_medium=search&utm_campaign=ads&gad_source=1&gad_campaignid=23504506941&gbraid=0AAAAADFOxY3WsJo86KHccEokwEGgljNiL&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1IJLx_auXrmt45AAJRNkmpIMm4L6WGJEm48vlEAnI-eMdce-oZEMuBoCbgsQAvD_BwE){.register-link}
     | March 25 | Intro to Arista Series | If you don’t know Arista Networks yet, this series is for you! | <span class="location-text">Webinar<br></span> [Register](https://events.arista.com/arista-introductory-101-webinar-series?utm_campaign=36464950-EMEA%202026%20Q1%20Arista%20101%20Webinar%20Series&utm_medium=email&_hsenc=p2ANqtz-_kzxda9iy7cmzZYOpKzhsrSsBRvn7C4NsrvvtOWWs5dkfpqKp_9187Mf2XCSHGc10dw4Hvn7PFBS5kGYv2mnog9CgPQg&_hsmi=2&utm_content=2&utm_source=hs_email#agenda){.register-link} |      
 </div>
 
@@ -52,7 +52,7 @@ Arista’s[ Modern Operating Model](https://www.arista.com/en/products/eos-netwo
 
 ### **The Network as a Deterministic Platform**
 
-Traditional networking often relies on "snowflake" configurations: unique, manually tweaked settings that drift over time and create fragility. Arista’s approach [champions ruthless simplification and Infrastructure-as-Code](https://siliconangle.com/2022/11/06/aristas-continuous-integration-pipeline-brings-cloud-principles-network). 
+Traditional networking often relies on "snowflake" configurations: unique, manually tweaked settings that drift over time and create fragility. Arista’s approach **[champions ruthless simplification and Infrastructure-as-Code](https://siliconangle.com/2022/11/06/aristas-continuous-integration-pipeline-brings-cloud-principles-network){ style="color: #0070d2 !important;" }.**
 
 By defining the network through software-based templates rather than manual configurations, organizations gain a procedurally generated, version-controlled, and fully reproducible infrastructure foundation. The outcome is deterministic, automated standards that reduce operational risk and ensure consistent performance across the entire IT environment.
 
@@ -131,8 +131,8 @@ Look out for our upcoming life sciences events and webinars. At these events, we
 <span class="resources-header">Resources</span>
 
 [Arista Labs](https://labs.arista.com/){ .resource-link target="_blank"}
-[CloudVision Chats Ep 1 - Realtime Telemetry vs Polling](https://www.youtube.com/watch?v=t22vWu9wvtA){ .resource-link target="_blank"}
-[CloudVision Chats Ep 4 - Evolution of software upgrades: Smart System Upgrade](https://www.youtube.com/watch?v=ZuBe5B4EpsI){ .resource-link target="_blank"}
+[CloudVision Chats - Realtime Telemetry vs Polling](https://www.youtube.com/watch?v=t22vWu9wvtA){ .resource-link target="_blank"}
+[CloudVision Chats - Evolution of software upgrades: Smart System Upgrade](https://www.youtube.com/watch?v=ZuBe5B4EpsI){ .resource-link target="_blank"}
 [Press Release: CloudVision delivers Modern Network Operating Model across the Enterprise](https://www.arista.com/en/company/news/press-release/20387-pr-20240924){ .resource-link target="_blank"}
 
 </div>
