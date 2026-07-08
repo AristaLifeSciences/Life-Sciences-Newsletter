@@ -119,7 +119,7 @@ The technology to eliminate downtime-driven operations already exists.
 
 
 ---
-*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email: [noork@arista.com](mailto:noork@arista.com)*
+*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email: [nelifesciences@arista.com](mailto:nelifesciences@arista.com)*
 
 ---
 <style>
