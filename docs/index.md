@@ -101,6 +101,10 @@ When combined with the resilience of EOS and the flexibility of Smart System Upg
 
 Instead of coordinating large-scale disruptive events, teams can implement smaller, lower-risk changes with greater confidence.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/4XXwlceVfp8?si=Zqdm7dtnH26CTll0rel=0&wmode=transparent" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### **The Future Is Always On**
 
 For decades, infrastructure teams have planned around downtime.
@@ -119,7 +123,7 @@ The technology to eliminate downtime-driven operations already exists.
 
 
 ---
-*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email: [nelifesciences@arista.com](mailto:nelifesciences@arista.com)*
+*Ready to explore what’s possible today? Connect with our Life Sciences team to see how Arista can help accelerate your next discovery. Email: [noork@arista.com](mailto:noork@arista.com)*
 
 ---
 <style>
@@ -175,5 +179,4 @@ The technology to eliminate downtime-driven operations already exists.
 [SSU](https://www.arista.com/en/products/eos/resiliency#datatab203){ .resource-link target="_blank"}
 [McKinsey Report](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/a-manufacturers-guide-to-generating-value-at-scale-with-industrial-iot){ .resource-link target="_blank"}
 [Siemens Report on the True Cost of Downtime](https://blog.siemens.com/2023/04/the-true-cost-of-downtime/){ .resource-link target="_blank"}
-
 </div>
